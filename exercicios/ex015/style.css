@@ -1,0 +1,23 @@
+@charset "UTF-8"
+/* Regra @charsert caso haja problemas com acentuaçao */
+
+body{
+    background-color: lightgoldenrodyellow;
+    color: chocolate;
+    font-size: 12px;
+    font-family: Arial;    
+}
+h1{
+    color: brown;
+    background-color: goldenrod;
+}
+h2{
+    color: darkred;
+}
+a{
+    color: brown;
+    text-decoration: none;
+}
+p{
+    text-align: justify;
+}
